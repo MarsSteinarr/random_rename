@@ -1,7 +1,3 @@
-Sure! Below is the documentation for the `random_rename.py` script in a `README.md` file:
-
----
-
 # Random File Name Renamer
 
 The **Random File Name Renamer** is a Python script that allows you to rename files in a directory with random filenames. This script provides the flexibility to specify the file extension and the length of the random filename.
